@@ -1,30 +1,59 @@
-# HTML Hello
+# 📸 Instagram Photo Feed
 
-The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 
-> There is a video tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
+---
 
-## What to do next?
+# 📖 Overview
 
-Create an `index.html` file with the [basic HTML structure](http://4geeks.com/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+Instagram Photo Feed is a static web page built with HTML and CSS that recreates the layout of a simple social media photo feed.
+
+This project was developed to practice semantic HTML, CSS styling, layout techniques, and responsive page structure.
+
+---
+
+# ✨ Features
+
+- 📸 Instagram-style photo feed
+- 🎨 Custom CSS styling
+- 📱 Simple responsive layout
+- 📝 Multiple feed posts
+- 🖼️ External image integration
+
+---
+
+# 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+
+---
+
+# 🧠 What I Learned
+
+Through this project I practiced:
+
+- Semantic HTML
+- CSS layouts
+- Typography
+- Spacing and alignment
+- Responsive design fundamentals
+
+---
+
+# 🚀 Installation
+
+Clone the repository
 
 ```bash
-$ pip3 install flask && python3 server.py
+git clone https://github.com/meylin103/instagram-photo-feed.git
 ```
 
-- You can create as many HTML files as you want.
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+Open `index.html` in your browser.
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+---
 
-### Contributors
+# 📄 License
 
-This template was built as part of the [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
-
-You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
+This project was developed as part of my Full Stack Software Development learning journey and is included in my professional portfolio.
